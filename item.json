@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "61a007c4a04814d17d096c31"
+  },
+  "image": "item1_image",
+  "category": "NEW ARRIVAL",
+  "item_name": "MC FLY ",
+  "price": "100"
+},{
+  "_id": {
+    "$oid": "61a008bfa04814d17d096c32"
+  },
+  "image": "item2_image",
+  "category": "NEW ARRIVAL",
+  "item_name": "BEARNEST",
+  "price": "100"
+},{
+  "_id": {
+    "$oid": "61a009d0a04814d17d096c37"
+  },
+  "image": "item3_image",
+  "category": "NEW ARRIVAL",
+  "item_name": "BARKED",
+  "price": "150"
+},{
+  "_id": {
+    "$oid": "61a00a27a04814d17d096c38"
+  },
+  "image": "item4_image",
+  "category": "MEN",
+  "item_name": "FLEKO",
+  "price": "250"
+},{
+  "_id": {
+    "$oid": "61a00a7aa04814d17d096c39"
+  },
+  "image": "item5_image",
+  "category": "MEN",
+  "item_name": "BEAN",
+  "price": "300"
+},{
+  "_id": {
+    "$oid": "61a00ac4a04814d17d096c3b"
+  },
+  "image": "item6_image",
+  "category": "MEN",
+  "item_name": "FELOI",
+  "price": "120"
+}]
