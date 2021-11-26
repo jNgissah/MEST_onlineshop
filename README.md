@@ -30,7 +30,7 @@ MEST Teaching Fellow Assessment: NTORI JOSEPH NGISSAH
 `├──`[`.serve`](nodeJS) — contains the tools used to develope the backend of the project, it runs on a nodeJS serrver.<br>
 `├──`[`.vs`](visual studio) — VSCode settings including code snippets, recommended extensions etc.<br>
 `├──`[`images`](images) — dynamic images used for the projec<br>
-`├──`[`items.json`](items.json) — It contains the databbase for the project the can bbe exported nto mongodb<br>
+`├──`[`item.json`](item.json) — It contains the databbase for the project the can bbe exported nto mongodb<br>
 
 ## Requirements
 
