@@ -18,7 +18,7 @@ const Mainfunction = () => {
                 </p>
                 </Grid>
                 <Grid lg={4} xs={12} md={4} style={{fontSize:"12px", marginTop:5}}>
-                    <p style={{textAlign:"center"}}>Cpyright  2018 MonsterMun, Inc</p>
+                    <p style={{textAlign:"center"}}>Copyright &copy; 2018 MonsterMun, Inc</p>
                 </Grid>
 
                 <Grid lg={5} xs={12} md={4} style={{paddingTop:20}} >
