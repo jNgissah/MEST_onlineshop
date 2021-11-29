@@ -27,7 +27,7 @@ MEST Teaching Fellow Assessment: NTORI JOSEPH NGISSAH
 ## Directory Structure
 
 `├──`[`.React_app`](React) — Contains the tools used to build the frontend of the project<br>
-`├──`[`.serve`](nodeJS) — contains the tools used to develope the backend of the project, it runs on a nodeJS serrver.<br>
+`├──`[`.serve`](nodeJS) — contains the tools used to develope the backend of the project, it runs on a nodeJS serrver. This server is hosted online @  https://server.ravinlead.com/api/getdata/<br>
 `├──`[`.vs`](visual studio) — VSCode settings including code snippets, recommended extensions etc.<br>
 `├──`[`images`](images) — dynamic images used for the projec<br>
 `├──`[`item.json`](item.json) — It contains the databbase for the project the can bbe exported nto mongodb<br>
